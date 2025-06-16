@@ -44,8 +44,3 @@
   <a href="mailto:faizarachma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/faizarachma"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C5364,203A43,0F2027&height=120&section=footer"/>
-</p>
